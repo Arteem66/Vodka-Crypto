@@ -175,6 +175,7 @@ marquee{
 }
 
 .buy-wrapper{
+  position: relative;
   background-color: #bdbdbd;
   border-radius: 40px;
   display: flex;
