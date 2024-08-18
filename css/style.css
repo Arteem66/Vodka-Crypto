@@ -78,6 +78,10 @@ marquee{
   gap: 10px;
 }
 
+.icon{
+  width: 40px;
+  height: 40px;
+}
 
 /* =========BANNER========= */
 /* =========BANNER========= */
@@ -165,14 +169,12 @@ marquee{
   flex-direction: column;
   max-width: 45%;
   gap: 25px;
-} */
-
-/* =========BUY========= */
-/* =========BUY========= */
-
-.buy{
-  padding: 25px 0 0 0;
 }
+
+/* =========BUY========= */
+/* =========BUY========= */
+
+
 
 .buy-wrapper{
   position: relative;
@@ -183,7 +185,8 @@ marquee{
   justify-content: center;
   align-items: center;
   gap: 25px;
-  padding: 70px 0;
+  padding: 40px 0;
+  margin: 25px 0;
 }
 
 .buy-button{
